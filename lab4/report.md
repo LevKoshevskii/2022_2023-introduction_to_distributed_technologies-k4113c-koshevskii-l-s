@@ -87,7 +87,9 @@ IPPool region-west-ippool будет назначать подам, заплан
 Пинг:
 ![image](https://user-images.githubusercontent.com/46699832/211787745-52e321e1-340a-4111-a308-f1289dc42616.png)
 
+### Схема организации контейнеров и сервисов
 
+![image](https://user-images.githubusercontent.com/46699832/211807296-4e301a13-a3e6-4820-8b62-77afe0240ba1.png)
 
 
 
