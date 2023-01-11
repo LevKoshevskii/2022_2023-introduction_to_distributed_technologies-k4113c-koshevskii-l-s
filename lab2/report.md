@@ -76,5 +76,6 @@ Date of finished:
 ![image_2022_11_20T17_27_59_465Z](https://user-images.githubusercontent.com/46699832/211778427-5eb5c4a2-8a7b-4dee-9afd-beed66dd6c03.png)
 
 
+## Схема организации контейнеров и сервисов
 
-
+![image](https://user-images.githubusercontent.com/46699832/211806824-f32d69a4-994b-471a-a41b-d325516daa5f.png)
