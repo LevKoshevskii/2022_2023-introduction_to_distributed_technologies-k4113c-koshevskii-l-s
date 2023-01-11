@@ -83,6 +83,7 @@ Ingress Controller представляет собой специальный б
 
 ![image](https://user-images.githubusercontent.com/46699832/211782804-57094b57-2171-4679-bb5b-289c3fac70ab.png)
 
+### Схема организации контейнеров и сервисов
 
 
-
+![image](https://user-images.githubusercontent.com/46699832/211807040-3aefde14-1a54-44a1-a30a-0fdf9d751847.png)
