@@ -43,7 +43,7 @@ Date of finished:
 
 Удаление дефолтного IP пула:
 
-![image](https://user-images.githubusercontent.com/46699832/211786922-a0c4f791-2cb1-4470-a6a7-1021564bddac.png)
+![image](https://user-images.githubusercontent.com/46699832/211789689-167c3934-582e-4970-808e-b21d2f37ebda.png)
 
 Добавление меток для нод:
 
@@ -57,8 +57,7 @@ IPPool region-west-ippool будет назначать подам, заплан
 
 Создание IP пулов в кластере:
 
-![image](https://user-images.githubusercontent.com/46699832/211787196-ecd7cac3-65e0-4af5-a28a-97f67bc91bfb.png)
-
+![image](https://user-images.githubusercontent.com/46699832/211789826-bbfa4b27-76c0-44a5-bd91-9d53bf87ef1f.png)
 ### Проверка назначения IP адресов
 
 Для проверки созданных IP-пулов необходимо развернуть тестовое приложение и посмотреть, на каких нодах развернулись поды и какие IP-адреса этим подам были присвоены.
