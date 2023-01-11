@@ -30,7 +30,9 @@ ConfigMap позволят определять конфигурационные
 
 Создание ConfigMap:
 
-![image_2022_12_07T18_41_50_247Z](https://user-images.githubusercontent.com/46699832/211781052-c4efb40f-c89b-41be-9314-1cfad1a978ae.png)
+```bash
+kubectl apply -f C:\Users\koshe\Desktop\lab3\configmap.yaml
+```
 
 ### Передача значений ConfigMap в ReplicaSet
 
